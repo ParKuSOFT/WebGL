@@ -1,0 +1,170 @@
+[
+  {
+    "ModelId": 2,
+    "VertexOrder": 0,
+    "R": 1,
+    "G": 0,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 1,
+    "R": 0,
+    "G": 1,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 2,
+    "R": 0,
+    "G": 0,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 3,
+    "R": 1,
+    "G": 0,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 4,
+    "R": 0,
+    "G": 0,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 5,
+    "R": 1,
+    "G": 1,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 6,
+    "R": 1,
+    "G": 0,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 7,
+    "R": 1,
+    "G": 1,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 8,
+    "R": 1,
+    "G": 0,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 9,
+    "R": 1,
+    "G": 0,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 10,
+    "R": 1,
+    "G": 0,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 11,
+    "R": 0,
+    "G": 1,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 12,
+    "R": 0,
+    "G": 1,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 13,
+    "R": 0,
+    "G": 0,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 14,
+    "R": 0,
+    "G": 1,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 15,
+    "R": 0,
+    "G": 1,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 16,
+    "R": 1,
+    "G": 1,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 17,
+    "R": 0,
+    "G": 0,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 18,
+    "R": 0,
+    "G": 1,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 19,
+    "R": 1,
+    "G": 0,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 20,
+    "R": 1,
+    "G": 1,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 21,
+    "R": 0,
+    "G": 1,
+    "B": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 22,
+    "R": 0,
+    "G": 1,
+    "B": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 23,
+    "R": 1,
+    "G": 0,
+    "B": 1
+  }
+]

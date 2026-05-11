@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "wLiY0sUMUZng+qcHo2LgtSf8QxVUk6aHsvOfVUMwhOk=",
+  "Source": "WebGL",
+  "BasePath": "_content/WebGL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebGL\\wwwroot",
+      "Source": "WebGL",
+      "ContentRoot": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\",
+      "BasePath": "_content/WebGL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\0bsrolfglb-vtk2zbjya0.gz",
+      "SourceId": "WebGL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebGL",
+      "RelativePath": "CSS/style#[.{fingerprint=vtk2zbjya0}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\CSS\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "byjkoizpw6",
+      "Integrity": "/U1/r+LCMVSGyh3x8vhWtiYMAQk8ArHkSchoCxGyh7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\CSS\\style.css"
+    },
+    {
+      "Identity": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\h6yrendb85-rwand7puh1.gz",
+      "SourceId": "WebGL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebGL",
+      "RelativePath": "JS/gl-matrix#[.{fingerprint=rwand7puh1}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mw2hkpd40r",
+      "Integrity": "9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix.js"
+    },
+    {
+      "Identity": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\v6bmiuuayf-5hluuk3by6.gz",
+      "SourceId": "WebGL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebGL",
+      "RelativePath": "index#[.{fingerprint=5hluuk3by6}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gvasba9rho",
+      "Integrity": "DMlBduwPIygj6vZJmvEQ9myg6RZY0RlL2ht1d1DM0WE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\vsyyq4vubw-rwand7puh1.gz",
+      "SourceId": "WebGL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebGL",
+      "RelativePath": "JS/gl-matrix-min#[.{fingerprint=rwand7puh1}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix-min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mw2hkpd40r",
+      "Integrity": "9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix-min.js"
+    },
+    {
+      "Identity": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\CSS\\style.css",
+      "SourceId": "WebGL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\",
+      "BasePath": "_content/WebGL",
+      "RelativePath": "CSS/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vtk2zbjya0",
+      "Integrity": "85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS\\style.css"
+    },
+    {
+      "Identity": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\index.html",
+      "SourceId": "WebGL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\",
+      "BasePath": "_content/WebGL",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5hluuk3by6",
+      "Integrity": "OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix.js",
+      "SourceId": "WebGL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\",
+      "BasePath": "_content/WebGL",
+      "RelativePath": "JS/gl-matrix#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rwand7puh1",
+      "Integrity": "+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JS\\gl-matrix.js"
+    },
+    {
+      "Identity": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix-min.js",
+      "SourceId": "WebGL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\",
+      "BasePath": "_content/WebGL",
+      "RelativePath": "JS/gl-matrix-min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rwand7puh1",
+      "Integrity": "+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JS\\gl-matrix-min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "CSS/style.css",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\0bsrolfglb-vtk2zbjya0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001680672269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "594"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/U1/r+LCMVSGyh3x8vhWtiYMAQk8ArHkSchoCxGyh7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 22:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/style.css",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\CSS\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 22:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/style.css.gz",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\0bsrolfglb-vtk2zbjya0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/U1/r+LCMVSGyh3x8vhWtiYMAQk8ArHkSchoCxGyh7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 22:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/U1/r+LCMVSGyh3x8vhWtiYMAQk8ArHkSchoCxGyh7I="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/style.vtk2zbjya0.css",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\0bsrolfglb-vtk2zbjya0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001680672269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "594"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/U1/r+LCMVSGyh3x8vhWtiYMAQk8ArHkSchoCxGyh7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 22:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vtk2zbjya0"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/style.vtk2zbjya0.css",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\CSS\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 22:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vtk2zbjya0"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/style.vtk2zbjya0.css.gz",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\0bsrolfglb-vtk2zbjya0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/U1/r+LCMVSGyh3x8vhWtiYMAQk8ArHkSchoCxGyh7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 22:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vtk2zbjya0"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/U1/r+LCMVSGyh3x8vhWtiYMAQk8ArHkSchoCxGyh7I="
+        }
+      ]
+    },
+    {
+      "Route": "index.5hluuk3by6.html",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\v6bmiuuayf-5hluuk3by6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000172920629"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5782"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMlBduwPIygj6vZJmvEQ9myg6RZY0RlL2ht1d1DM0WE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 23:30:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5hluuk3by6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs="
+        }
+      ]
+    },
+    {
+      "Route": "index.5hluuk3by6.html",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 23:30:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5hluuk3by6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs="
+        }
+      ]
+    },
+    {
+      "Route": "index.5hluuk3by6.html.gz",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\v6bmiuuayf-5hluuk3by6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMlBduwPIygj6vZJmvEQ9myg6RZY0RlL2ht1d1DM0WE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 23:30:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5hluuk3by6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DMlBduwPIygj6vZJmvEQ9myg6RZY0RlL2ht1d1DM0WE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\v6bmiuuayf-5hluuk3by6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000172920629"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5782"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMlBduwPIygj6vZJmvEQ9myg6RZY0RlL2ht1d1DM0WE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 23:30:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 23:30:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\v6bmiuuayf-5hluuk3by6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMlBduwPIygj6vZJmvEQ9myg6RZY0RlL2ht1d1DM0WE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 23:30:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DMlBduwPIygj6vZJmvEQ9myg6RZY0RlL2ht1d1DM0WE="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix.js",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\h6yrendb85-rwand7puh1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000076546234"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13063"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix.js",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix.js.gz",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\h6yrendb85-rwand7puh1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix.rwand7puh1.js",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\h6yrendb85-rwand7puh1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000076546234"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13063"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rwand7puh1"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/gl-matrix.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix.rwand7puh1.js",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rwand7puh1"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/gl-matrix.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix.rwand7puh1.js.gz",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\h6yrendb85-rwand7puh1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rwand7puh1"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/gl-matrix.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix-min.js",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\vsyyq4vubw-rwand7puh1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000076546234"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13063"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:14:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix-min.js",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix-min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:14:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix-min.js.gz",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\vsyyq4vubw-rwand7puh1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:14:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix-min.rwand7puh1.js",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\vsyyq4vubw-rwand7puh1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000076546234"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13063"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:14:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rwand7puh1"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/gl-matrix-min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix-min.rwand7puh1.js",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix-min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:14:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rwand7puh1"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/gl-matrix-min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+09xst+d1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="
+        }
+      ]
+    },
+    {
+      "Route": "JS/gl-matrix-min.rwand7puh1.js.gz",
+      "AssetFile": "D:\\Программирование\\WebGL\\WebGL\\obj\\Debug\\net9.0\\compressed\\vsyyq4vubw-rwand7puh1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 May 2026 21:14:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rwand7puh1"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/gl-matrix-min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9pBvrOiIX34In/e9otCXS+t7G97J0H9Ouf3Dcum/k04="
+        }
+      ]
+    }
+  ]
+}

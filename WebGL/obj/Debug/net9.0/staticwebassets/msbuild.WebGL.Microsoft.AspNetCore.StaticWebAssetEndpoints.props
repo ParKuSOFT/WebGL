@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/WebGL/CSS/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1884"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002285TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 May 2026 22:22:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebGL/CSS/style.vtk2zbjya0.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vtk2zbjya0"},{"Name":"integrity","Value":"sha256-85TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA="},{"Name":"label","Value":"_content/WebGL/CSS/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1884"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002285TkovJXjOECyDwpEkd3kMFR/z0pl9FRmme0Pa9VgqA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 May 2026 22:22:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebGL/index.5hluuk3by6.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5hluuk3by6"},{"Name":"integrity","Value":"sha256-OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs="},{"Name":"label","Value":"_content/WebGL/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25789"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 May 2026 23:30:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebGL/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"25789"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022OWYfy9EwEjc4TwqMFpp8JtnKbpZCYepRYP3KTY6Caxs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 May 2026 23:30:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebGL/JS/gl-matrix-min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\gl-matrix-min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002B09xst\u002Bd1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"55991"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002B09xst\u002Bd1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 May 2026 21:14:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebGL/JS/gl-matrix-min.rwand7puh1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\gl-matrix-min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rwand7puh1"},{"Name":"integrity","Value":"sha256-\u002B09xst\u002Bd1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="},{"Name":"label","Value":"_content/WebGL/JS/gl-matrix-min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55991"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002B09xst\u002Bd1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 May 2026 21:14:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebGL/JS/gl-matrix.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\gl-matrix.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002B09xst\u002Bd1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"55991"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002B09xst\u002Bd1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 May 2026 21:16:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebGL/JS/gl-matrix.rwand7puh1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\gl-matrix.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rwand7puh1"},{"Name":"integrity","Value":"sha256-\u002B09xst\u002Bd1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q="},{"Name":"label","Value":"_content/WebGL/JS/gl-matrix.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55991"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002B09xst\u002Bd1zIS41eAvRDCXOf0MH993E4cS40hKBIJj8Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 May 2026 21:16:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

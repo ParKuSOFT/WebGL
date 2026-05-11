@@ -1,0 +1,212 @@
+[
+  {
+    "ModelId": 3,
+    "VertexOrder": 0,
+    "X": 0,
+    "Y": 1.5,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 1,
+    "X": 1,
+    "Y": 0,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 2,
+    "X": 0.309017,
+    "Y": 0,
+    "Z": 0.9510565
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 3,
+    "X": 0,
+    "Y": 1.5,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 4,
+    "X": 0.309017,
+    "Y": 0,
+    "Z": 0.9510565
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 5,
+    "X": -0.8090171,
+    "Y": 0,
+    "Z": 0.5877852
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 6,
+    "X": 0,
+    "Y": 1.5,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 7,
+    "X": -0.8090171,
+    "Y": 0,
+    "Z": 0.5877852
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 8,
+    "X": -0.8090169,
+    "Y": 0,
+    "Z": -0.5877854
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 9,
+    "X": 0,
+    "Y": 1.5,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 10,
+    "X": -0.8090169,
+    "Y": 0,
+    "Z": -0.5877854
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 11,
+    "X": 0.3090171,
+    "Y": 0,
+    "Z": -0.9510565
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 12,
+    "X": 0,
+    "Y": 1.5,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 13,
+    "X": 0.3090171,
+    "Y": 0,
+    "Z": -0.9510565
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 14,
+    "X": 1,
+    "Y": 0,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 15,
+    "X": 0,
+    "Y": -1.5,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 16,
+    "X": 0.309017,
+    "Y": 0,
+    "Z": 0.9510565
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 17,
+    "X": 1,
+    "Y": 0,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 18,
+    "X": 0,
+    "Y": -1.5,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 19,
+    "X": -0.8090171,
+    "Y": 0,
+    "Z": 0.5877852
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 20,
+    "X": 0.309017,
+    "Y": 0,
+    "Z": 0.9510565
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 21,
+    "X": 0,
+    "Y": -1.5,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 22,
+    "X": -0.8090169,
+    "Y": 0,
+    "Z": -0.5877854
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 23,
+    "X": -0.8090171,
+    "Y": 0,
+    "Z": 0.5877852
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 24,
+    "X": 0,
+    "Y": -1.5,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 25,
+    "X": 0.3090171,
+    "Y": 0,
+    "Z": -0.9510565
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 26,
+    "X": -0.8090169,
+    "Y": 0,
+    "Z": -0.5877854
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 27,
+    "X": 0,
+    "Y": -1.5,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 28,
+    "X": 1,
+    "Y": 0,
+    "Z": 0
+  },
+  {
+    "ModelId": 3,
+    "VertexOrder": 29,
+    "X": 0.3090171,
+    "Y": 0,
+    "Z": -0.9510565
+  }
+]

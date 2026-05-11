@@ -1,0 +1,8 @@
+D:\Программирование\WebGL\WebGL\wwwroot\CSS\style.css
+D:\Программирование\WebGL\WebGL\wwwroot\JS\gl-matrix.js
+D:\Программирование\WebGL\WebGL\wwwroot\index.html
+D:\Программирование\WebGL\WebGL\wwwroot\JS\gl-matrix-min.js
+wwwroot\CSS\style.css
+wwwroot\index.html
+wwwroot\JS\gl-matrix.js
+wwwroot\JS\gl-matrix-min.js

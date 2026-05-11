@@ -1,0 +1,170 @@
+[
+  {
+    "ModelId": 2,
+    "VertexOrder": 0,
+    "NX": 0,
+    "NY": 1,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 1,
+    "NX": 1,
+    "NY": 0,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 2,
+    "NX": 0,
+    "NY": 0,
+    "NZ": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 3,
+    "NX": 0,
+    "NY": 1,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 4,
+    "NX": 0,
+    "NY": 0,
+    "NZ": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 5,
+    "NX": -1,
+    "NY": 0,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 6,
+    "NX": 0,
+    "NY": 1,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 7,
+    "NX": -1,
+    "NY": 0,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 8,
+    "NX": 0,
+    "NY": 0,
+    "NZ": -1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 9,
+    "NX": 0,
+    "NY": 1,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 10,
+    "NX": 0,
+    "NY": 0,
+    "NZ": -1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 11,
+    "NX": 1,
+    "NY": 0,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 12,
+    "NX": 0,
+    "NY": -1,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 13,
+    "NX": 0,
+    "NY": 0,
+    "NZ": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 14,
+    "NX": 1,
+    "NY": 0,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 15,
+    "NX": 0,
+    "NY": -1,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 16,
+    "NX": -1,
+    "NY": 0,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 17,
+    "NX": 0,
+    "NY": 0,
+    "NZ": 1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 18,
+    "NX": 0,
+    "NY": -1,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 19,
+    "NX": 0,
+    "NY": 0,
+    "NZ": -1
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 20,
+    "NX": -1,
+    "NY": 0,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 21,
+    "NX": 0,
+    "NY": -1,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 22,
+    "NX": 1,
+    "NY": 0,
+    "NZ": 0
+  },
+  {
+    "ModelId": 2,
+    "VertexOrder": 23,
+    "NX": 0,
+    "NY": 0,
+    "NZ": -1
+  }
+]

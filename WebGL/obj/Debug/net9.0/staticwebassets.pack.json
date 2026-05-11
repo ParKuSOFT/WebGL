@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\CSS\\style.css"
+    },
+    {
+      "Id": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix-min.js",
+      "PackagePath": "staticwebassets\\JS\\gl-matrix-min.js"
+    },
+    {
+      "Id": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\JS\\gl-matrix.js",
+      "PackagePath": "staticwebassets\\JS\\gl-matrix.js"
+    },
+    {
+      "Id": "D:\\Программирование\\WebGL\\WebGL\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebGL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebGL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WebGL.props",
+      "PackagePath": "build\\WebGL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WebGL.props",
+      "PackagePath": "buildMultiTargeting\\WebGL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WebGL.props",
+      "PackagePath": "buildTransitive\\WebGL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

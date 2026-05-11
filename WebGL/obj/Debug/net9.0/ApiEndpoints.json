@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "WebGL.Controllers.CubeDataController",
+    "Method": "GetCubeData",
+    "RelativePath": "api/cubedata/1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebGL.Controllers.CubeDataController",
+    "Method": "GetOctahedronData",
+    "RelativePath": "api/cubedata/2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebGL.Controllers.CubeDataController",
+    "Method": "GetBipiramidData",
+    "RelativePath": "api/cubedata/3",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
